@@ -1,0 +1,235 @@
+body {
+    overflow-x: hidden;
+
+}
+.logo-top{
+    height: 8vh;
+    margin-top: -10px;
+}
+
+.img-logo{
+    margin-top: -20px;
+    width: 160px;
+    height: auto;
+    margin-left: 2rem;
+}
+
+.nav-item{
+    padding-right: .6em;
+}
+
+.navbar-nav{
+  margin-right: 4rem;
+}
+
+.img-responsive.header-img{
+    width: 100%;
+    height: auto;
+    background: #317CC6;
+    border-radius: 0 0 50% 50% / 0 0 50% 50%;
+    transform: scaleX(1.5);
+}
+
+.bg-img{
+    border-radius: 0 0 80% 80% / 0 0 60% 60%;
+    transform: scaleX(1.5);
+    background: linear-gradient(125.28deg, #0EA1EF 0%, #064BCA 100%);
+    position: relative;
+
+}
+
+.container-fluid.img-text{
+    position: absolute;
+    margin-top: -600px;
+}
+.display-1.h1-strong{
+    font-weight: bold;
+}
+
+.img-responsive.vector1{
+    margin-top: -1100px;
+}
+
+.img-responsive.vector2{
+    margin-top: -1060px;
+}
+
+.h1.about-us{
+    font-weight: bold;
+    padding-top: 8rem;
+}
+
+.upper-div{
+    width: 25%;
+    height: 18vh;
+    border-radius: 10%;
+    background-color: #CFEAFB;
+
+}
+.mx-auto.d-block.rectangle{
+    width: 100%;
+    margin-top: -170px;
+    position: relative;
+}
+
+.down-div{
+    width: 25%;
+    height: 18vh;
+    border-radius: 10%;
+    margin-top: -210px;
+    background-color: #CFEAFB;
+}
+
+.h1.Expertise{
+    font-weight: bold;
+    padding-top: 4rem;
+    display: block;
+}
+
+
+.img-responsive.building{
+    width: 100%;
+    height: auto;
+    border-radius: 50% 50% 0 0 / 50% 50% 0 0;
+    transform: scaleX(1.5);
+    margin-top: -300px;
+    background: linear-gradient(125.28deg, #0EA1EF 0%, #064BCA 100%);
+}
+
+.row-images{
+    z-index: 1;
+    margin-top: 20px;
+    position: relative;
+}
+
+.mx-auto.d-block.Rectangle39{
+    z-index: 1;
+    position: absolute;
+}
+
+.mx-auto.d-block.Rectangle38{
+    width: 160%;
+    margin-left: -70px !important;
+    z-index: 1;
+    margin-top: -90px;
+}
+
+.mx-auto.d-block.Rectangle38:hover{
+    -ms-transform: scale(0.9); /* IE 9 */
+    -webkit-transform: scale(0.9); /* Safari 3-8 */
+    transform: scale(0.9);
+    cursor: pointer;
+}
+
+.mx-auto.d-block.Rectangle40{
+    z-index: 1;
+    position: absolute;
+}
+
+.img-responsive.vector{
+    width: 100%;
+    height: auto;
+    margin-top: -130px;
+}
+
+.mx-auto.d-block.rectangle7:hover{
+    -ms-transform: scale(0.9); /* IE 9 */
+    -webkit-transform: scale(0.9); /* Safari 3-8 */
+    transform: scale(0.9);
+    cursor: pointer;
+}
+
+.h1.Capital{
+    padding-top: 9rem;
+}
+
+.public-para{
+    position: absolute;
+    margin-top: -180px;
+    padding-left: 8rem;
+}
+
+.public-para1{
+    position: absolute;
+    margin-top: -140px;
+    padding-left: 3rem;
+    text-align: center;
+}
+
+.Academia-para{
+    margin-top: -37px;
+}
+
+.img-responsive.vector10{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.container-fluid.people-contain{
+    margin-top: -670px;
+    position: absolute;
+}
+
+.h1.Scott{
+   position: relative;
+}
+
+.fs-5.text-people{
+    margin-top: -180px;
+    position: absolute;
+    padding-left: 8rem;
+    text-align: center;
+}
+
+i{
+    padding-left: 0.9rem;
+}
+
+.mx-auto.d-block.Ellipse3:hover{
+    -ms-transform: scale(0.9); /* IE 9 */
+    -webkit-transform: scale(0.9); /* Safari 3-8 */
+    transform: scale(0.9);
+    cursor: pointer;
+}
+
+.health-cont{
+    background: #FFFFFF;
+    /* Drop Shadow */
+
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    padding-bottom: 2rem;
+}
+
+.healths-cont {
+
+    background: #FFFFFF;
+    /* Drop Shadow */
+
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    padding-bottom: 0.6rem;
+}
+
+.health-conta{
+    background: #FFFFFF;
+    /* Drop Shadow */
+
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    padding-bottom: 1.5rem;
+}
+
+.img-responsive.vectorleft{
+    margin-top: -900px;
+}
+
+.img-responsive.vectorRight{
+    margin-top: -900px;
+}
+
+.container-fluid.contact-us{
+    margin-top: -600px;
+    position: absolute;
+}
